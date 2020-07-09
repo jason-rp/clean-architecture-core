@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure.IoC", "Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI.MVC", "UI.MVC", "{0BE5A410-B7A6-4D10-AA13-86A44034D006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCore", "MVCCore\MVCCore.csproj", "{78D23D08-BDC4-4B83-B3AB-4DAC90D80731}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.CORE", "MVC.CORE\MVC.CORE.csproj", "{2FDF6577-1B20-417A-B2AD-118B84E53410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,16 +21,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{78D23D08-BDC4-4B83-B3AB-4DAC90D80731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78D23D08-BDC4-4B83-B3AB-4DAC90D80731}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78D23D08-BDC4-4B83-B3AB-4DAC90D80731}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78D23D08-BDC4-4B83-B3AB-4DAC90D80731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDF6577-1B20-417A-B2AD-118B84E53410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDF6577-1B20-417A-B2AD-118B84E53410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDF6577-1B20-417A-B2AD-118B84E53410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDF6577-1B20-417A-B2AD-118B84E53410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{78D23D08-BDC4-4B83-B3AB-4DAC90D80731} = {0BE5A410-B7A6-4D10-AA13-86A44034D006}
+		{2FDF6577-1B20-417A-B2AD-118B84E53410} = {0BE5A410-B7A6-4D10-AA13-86A44034D006}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4AD30DD4-0A5C-4024-9BED-B1E3B090092B}
