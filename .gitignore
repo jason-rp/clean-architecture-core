@@ -3,3 +3,6 @@
 ################################################################################
 
 /MVCCore/bin/Debug/netcoreapp3.1
+/MVCCore/obj/Debug/netcoreapp3.1
+/MVCCore/obj/Release/netcoreapp3.1
+/MVCCore/obj
