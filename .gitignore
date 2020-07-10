@@ -8,3 +8,8 @@
 /MVCCore/obj
 /MVC.CORE/bin/Debug/netcoreapp3.1
 /MVC.CORE/obj
+/Infra.Data/bin/Debug/netcoreapp3.1
+/Infra.Data/obj
+/JLRP.Application/obj
+/JLRP.Domain/bin/Debug/netcoreapp3.1
+/JLRP.Domain/obj

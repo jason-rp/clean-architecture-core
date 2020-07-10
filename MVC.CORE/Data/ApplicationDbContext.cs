@@ -11,6 +11,7 @@ namespace MVC.CORE.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+
         }
     }
 }
