@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra.Data", "Infra.Data\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLRP.Application", "JLRP.Application\JLRP.Application.csproj", "{6C4C66A5-B044-41A3-B1D3-7CB3BB910EFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.IoC", "Infra.IoC\Infra.IoC.csproj", "{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{6C4C66A5-B044-41A3-B1D3-7CB3BB910EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C4C66A5-B044-41A3-B1D3-7CB3BB910EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C4C66A5-B044-41A3-B1D3-7CB3BB910EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{734BCB9F-AEA7-419D-BF5D-B3245FF283EB} = {5C1D6BD0-E2A7-4AB8-9B47-F2E9244D93E6}
 		{BB3971B4-3C07-4388-8A36-41337CCF94E7} = {DA8A20AB-5D1B-4482-8935-3EB9EC8AFA84}
 		{6C4C66A5-B044-41A3-B1D3-7CB3BB910EFD} = {0E9FF75D-1201-4962-B225-CEEAADB830B4}
+		{ECD47DA4-4AC9-4B7D-862A-C8F786AC6F53} = {5EADD21E-AFAD-47AE-B990-4CBAAF00AE08}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4AD30DD4-0A5C-4024-9BED-B1E3B090092B}
